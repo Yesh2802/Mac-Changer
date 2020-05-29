@@ -10,7 +10,7 @@ apt-get install git
 
 apt-get install pyton
 
-Now clone into the repository
+Now clone into the repository :
 
 git clone https://github.com/Yeshwanth2802/Mac-Changer.git
 
