@@ -3,20 +3,20 @@ This tool helps to change the mac addresses of different network interfaces in a
 
 Required packages: Git, Python
 
-How to get required packages :
-Use the below codes on terminal.
+->How to get required packages :
+->Use the below codes on terminal.
 
 apt-get install git
 
 apt-get install pyton
 
-Now clone into the repository :
+->Now clone into the repository :
 
 git clone https://github.com/Yeshwanth2802/Mac-Changer.git
 
-After cloning browse to the respective folder
+->After cloning browse to the respective folder
 
-Usage: 
+->Usage: 
 
 python Mac_Changer.py
 
