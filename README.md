@@ -8,7 +8,7 @@ Required packages: Git, Python
 
 apt-get install git
 
-apt-get install pyton
+apt-get install python
 
 ->Now clone into the repository :
 
